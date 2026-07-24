@@ -1,0 +1,26 @@
+# Whitby HVAC Pros
+
+> Whitby HVAC Pros is a local HVAC company serving Whitby, Durham Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 668-3590  |  Email: contact@whitbyhvacpros.ca  |  Website: https://whitbyhvacpros.ca
+
+Service areas: Whitby, Ajax, Pickering, Oshawa, Bowmanville, Newcastle, Courtice, Port Hope
+
+## Key pages
+
+- [Home](https://whitbyhvacpros.ca/): Whitby HVAC Pros homepage with service overview and FAQ
+- [About](https://whitbyhvacpros.ca/about/): About the company and service area
+- [Contact](https://whitbyhvacpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://whitbyhvacpros.ca/services/furnace-repair/): Furnace Installation & Repair in Whitby, Ontario
+- [AC Installation & Repair](https://whitbyhvacpros.ca/services/ac-repair/): AC Installation & Repair in Whitby, Ontario
+- [Heat Pumps](https://whitbyhvacpros.ca/services/heat-pump-repair-installation/): Heat Pumps in Whitby, Ontario
+- [Duct Cleaning](https://whitbyhvacpros.ca/services/duct-cleaning/): Duct Cleaning in Whitby, Ontario
+- [Thermostats](https://whitbyhvacpros.ca/services/thermostat-repair-replacement/): Thermostats in Whitby, Ontario
+- [Ductless AC Installation](https://whitbyhvacpros.ca/services/ductless-ac-installation/): Ductless AC Installation in Whitby, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Whitby are answered on the homepage.
